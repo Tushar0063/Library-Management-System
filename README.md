@@ -9,3 +9,6 @@
 #Desktop
 ![image alt](https://github.com/Tushar0063/Library-Management-System/blob/a717626d170f9ab4eb6e65b0bc2e2e227ec1e641/Screenshot%202025-05-26%20003735.png)
 
+#Student Registration
+![image alt](https://github.com/Tushar0063/Library-Management-System/blob/0f714403f8d9b0e9765ba011f909df172205c078/Screenshot%202025-05-26%20003753.png)
+
