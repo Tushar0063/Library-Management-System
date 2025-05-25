@@ -12,3 +12,6 @@
 #Student Registration
 ![image alt](https://github.com/Tushar0063/Library-Management-System/blob/0f714403f8d9b0e9765ba011f909df172205c078/Screenshot%202025-05-26%20003753.png)
 
+#Add Book Details
+![image alt](https://github.com/Tushar0063/Library-Management-System/blob/72f0cf38afaed8857ece2b680c377fb7a286bd7c/Screenshot%202025-05-26%20003801.png)
+
