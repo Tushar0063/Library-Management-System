@@ -61,6 +61,40 @@ Java Swing or JavaFX – GUI Design
 JDBC – For database connectivity (if using MySQL)
 
 MySQL or .txt/.csv files – For data storage
+# 📁 LibraryManagementSystem/ (Root Project Directory)
+LibraryManagementSystem/
+│
+├── 📁 src/                          # Source code directory
+│   └── 📁 com/library/             # Base package
+│       ├── 📁 model/               # Data models (Book, Member, etc.)
+│       ├── 📁 dao/                 # Data Access Objects (DB operations)
+│       ├── 📁 service/             # Business logic
+│       ├── 📁 ui/                  # GUI components (Swing/JavaFX)
+│       ├── 📁 utils/               # Utility classes (file I/O, validations)
+│       └── Main.java              # Entry point of the application
+│
+├── 📁 resources/                   # Static resources
+│   ├── 📁 images/                  # Icons, logos
+│   └── 📁 sql/                     # SQL scripts for DB setup (if using MySQL)
+│
+├── 📁 database/                    # Local database files or .txt storage
+│   ├── books.txt
+│   ├── members.txt
+│   └── transactions.txt
+│
+├── 📁 lib/                         # External libraries (e.g., MySQL connector)
+│   └── mysql-connector-java.jar
+│
+├── 📁 docs/                        # Documentation and reports
+│   ├── ProjectReport.pdf
+│   ├── UMLDiagrams/
+│   └── Screenshots/
+│
+├── 📄 README.md                    # Project overview and instructions
+├── 📄 .gitignore                   # Git ignore rules
+├── 📄 build.xml / pom.xml         # Build file (Ant or Maven)
+└── 📄 LICENSE                      # Optional license file
+
 
 # 🗃️ Database Structure (If using MySQL)
 Tables:
